@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/اسم_حسابك/اسم_المستودع/main/png.500" alt="شعار الملف الشخصي" width="150">
+  <img src="./logo.png" alt="الشعار" width="150">
 </p>
 # 📄 الملف الشخصي والسيرة الذاتية - محمد ضاحي علي عبد الرحمن
 
