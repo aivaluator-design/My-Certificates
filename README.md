@@ -1,5 +1,6 @@
-<img width="1053" height="859" alt="image" src="https://github.com/user-attachments/assets/726bbb89-3426-4886-9027-3da472005c88" />
-
+<p align="center">
+  <img src="./اسم_ملف_الشعار.png" alt="الشعار" width="150">
+</p>
 أرشيف الشهادات والاعتمادات المهنية.
 # 📄 الملف الشخصي والسيرة الذاتية - Mohamed Dahy Ali Abdelrahman
 
