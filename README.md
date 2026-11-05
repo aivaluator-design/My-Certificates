@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./شعاررال%20png.500" alt="الشعار" width="150">
+  <img src="./logo-new.png" alt="Logo" width="150">
 </p>
 # 📄 الملف الشخصي والسيرة الذاتية - محمد ضاحي علي عبد الرحمن
 
