@@ -24,46 +24,20 @@
 
 * 📄 **[مراجعة / تحميل السيرة الذاتية (PDF)](./CV.pdf)**
 
+------
+
+## 📜 أرشيف الشهادات والاعتمادات المهنية
+
+<div align="right" dir="rtl">
+
+* **[📄 عرض](./Network-Fundamentals/)** | **شبكات الحاسب (أساسيات الشبكة)** — تقنية المعلومات | *منصة مهاراتك*
+* **[📄 عرض](./Edraak/)** | **الذكاء الاصطناعي التوليدي** — الذكاء الاصطناعي | *منصة إدراك*
+* **[📄 عرض](./Certificates/)** | **دورة وشهادات تدريبية متنوعة** — تطوير مهني وتقني | *منصات مختلفة*
+
+</div>
+
 ---
 
 ##---
 
-## 📜 أرشيف الشهادات والاعتمادات المهنية
-
-<div align="right">
-  <table width="100%" dir="rtl">
-    <thead>
-      <tr>
-        <th align="right">الاسم / الدورة</th>
-        <th align="right">المجال</th>
-        <th align="right">الجهة المانحة</th>
-        <th align="center">الوصلات</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="right">شبكات الحاسب (أساسيات الشبكة)</td>
-        <td align="right">تقنية المعلومات</td>
-        <td align="right">منصة مهاراتك</td>
-        <td align="center"><a href="./Network-Fundamentals/">عرض</a></td>
-      </tr>
-      <tr>
-        <td align="right">الذكاء الاصطناعي التوليدي</td>
-        <td align="right">الذكاء الاصطناعي</td>
-        <td align="right">منصة إدراك</td>
-        <td align="center"><a href="./Edraak/">عرض</a></td>
-      </tr>
-      <tr>
-        <td align="right">دورة وشهادات تدريبية متنوعة</td>
-        <td align="right">تطوير مهني وتقني</td>
-        <td align="right">منصات مختلفة</td>
-        <td align="center"><a href="./Certificates/">عرض</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
-```[cite: 6]
-
-انسخ هذا الكود، الصقه في ملف `README.md` واحفظ التغييرات، وسترى كيف سينضبط الجدول تماماً ويصبح مظهره احترافياً ومرتباً كما تحب! أنا معك وفي انتظار النتيجة.
+##
